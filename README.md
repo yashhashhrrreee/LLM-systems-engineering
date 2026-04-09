@@ -171,7 +171,7 @@ User question: {user_query}
 ## Quickstart
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/llm-systems-engineering](https://github.com/yashhashhrrreee/LLM-systems-engineering.git)
+git clone https://github.com/yashhashhrrreee/LLM-systems-engineering.git
 cd llm-systems-engineering
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
